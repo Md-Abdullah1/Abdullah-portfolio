@@ -12,11 +12,11 @@ const Approach = () => {
 
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         <Card
-          title="7.0 GPA"
+          title="74%"
           icon={<AceternityIcon order="B.Tech" />}
-          college="Jaya Prakash Narayana College of Engineering (Mahaboobnagar) "
-          course="Computer Science of Engineering"
-          year="2019-2023"
+          college="Bharat Institute of Engineering and Technology (Hyderabad) "
+          course="Computer Science & Engineering"
+          year="2021-2024"
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -25,11 +25,11 @@ const Approach = () => {
         </Card>
 
         <Card
-          title="90% Per"
-          icon={<AceternityIcon order="Intermediate" />}
-          college="Hyderabad Institute of Excellence (Vikarabad)"
-          course="Maths Physics Chemistry (M.P.C)"
-          year="2017-2019"
+          title="76%"
+          icon={<AceternityIcon order="Diploma in Computer Engineering" />}
+          college="Quli Qutubshah Govt Polytechnic (Hyderabad)"
+          course="C,C++,Java,Python,Data Strucrures,RDBMS.."
+          year="2018-2021"
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -43,11 +43,11 @@ const Approach = () => {
         </Card>
 
         <Card
-          title="8.3 GPA"
-          icon={<AceternityIcon order="10th SSC" />}
-          college="Kakatiya Techno School (Jadcherla)"
-          course="10th SSC"
-          year="2016"
+          title="64%"
+          icon={<AceternityIcon order="10th CBSE" />}
+          college="MANUU Model School (Hyderabad)"
+          course="10th CBSE"
+          year="2018"
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -115,7 +115,7 @@ const Card = ({
           {icon}
         </div>
         <h2
-          className="dark:text-white text-center text-3xl opacity-0 group-hover/canvas-card:opacity-100
+          className="dark:text-white text-center text-2xl opacity-0 group-hover/canvas-card:opacity-100
          relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white 
          group-hover/canvas-card:-translate-y-2 transition duration-200"
         >
@@ -161,7 +161,7 @@ const AceternityIcon = ({ order }: { order: string }) => {
         />
         <span
           className="inline-flex h-full w-full cursor-pointer items-center 
-        justify-center rounded-full bg-slate-950 px-5 py-2 text-purple backdrop-blur-3xl font-bold text-2xl"
+        justify-center rounded-full bg-slate-950 px-5 py-2 text-purple backdrop-blur-3xl font-bold text-1xl"
         >
           {order}
         </span>

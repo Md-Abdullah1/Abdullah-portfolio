@@ -7,7 +7,7 @@ import { FaDownload } from "react-icons/fa6";
 const Resume = () => {
   pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/legacy/build/pdf.worker.min.mjs`;
 
-  const url: string = "/assets/documents/shahidportfolio.pdf";
+  const url: string = "/assets/documents/Md-Abdullah's-Resume.pdf";
 
   function downloadFile() {
     const a: HTMLAnchorElement = document.createElement("a");
@@ -37,7 +37,7 @@ const Resume = () => {
           <Page pageNumber={1} />
         </Document>
       </div>
-      <div className="mt-3 flex justify-center">
+      <div className="mt-3 flex justify-center cursor-pointer">
         <MagicButton
           title="Download Resume"
           position="right"
