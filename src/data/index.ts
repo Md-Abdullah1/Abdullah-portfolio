@@ -342,13 +342,13 @@ export const workExperience = [
   {
     id: 1,
     companyName: "Huemn Interactive Pvt Ltd",
-    title: "Backend Developer",
-    desc: "Developing a scalable API using GraphQL to optimize data querying and integrated Google.",
+    title: "Frontend Developer",
+    desc: "Developing Ui using ",
     className: "md:col-span-2",
     thumbnail: "/assets/exp1.svg",
     details: [
       {
-        heading: "Developing a Robust API",
+        heading: "Developing a Robust Builder Project",
         point:
           "Leveraged GraphQL to build a scalable and efficient API that allows for precise data querying, minimizing over-fetching and under-fetching of data, thereby improving application performance.",
       },
