@@ -343,33 +343,34 @@ export const workExperience = [
     id: 1,
     companyName: "Huemn Interactive Pvt Ltd",
     title: "Frontend Developer",
-    desc: "Developing Ui using ",
+    desc: "building highly functional React applications, specializing in creating robust and user-friendly components.  ",
     className: "md:col-span-2",
     thumbnail: "/assets/exp1.svg",
     details: [
       {
-        heading: "Developing a Robust Builder Project",
+        heading: "Developing an Awesome Builder Project",
         point:
-          "Leveraged GraphQL to build a scalable and efficient API that allows for precise data querying, minimizing over-fetching and under-fetching of data, thereby improving application performance.",
+        "Leveraged JS libraries to build a scalable and efficient product that allows for creating No-Code websites and proposals for different types of Businesses and companies to approach clients in a better way.",
       },
-      {
-        heading: "Integrating with Google Services",
-        point:
-          "Integrated Google Calendar, Gmail, and other Google services into the backend, utilizing GraphQL to create a unified interface for seamless communication and data synchronization across different platforms, enhancing overall productivity and user experience.",
-      },
+      // {
+      //   heading: "",
+      //   point:
+      //   "Integrated Google Calendar, Gmail, and other Google services into the backend, utilizing GraphQL to create a unified interface for seamless communication and data synchronization across different platforms, enhancing overall productivity and user experience.",
+      // },
     ],
-
+    
     date: {
-      startDate: "June 2024",
-      endDate: "Working",
+      startDate: "August 2024",
+      endDate: "Currently Working",
     },
   },
-
+  
   {
     id: 2,
     companyName: "Tecktok4u Private Limited",
     title: "Junior Software Developer",
     desc: "Developed dynamic dashboards in a MERN-based school project,and managed Git workflows.",
+    // desc: " Developing and maintaining React applications with a focus on creating clean, well-structured, and highly functional UI components. ",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/assets/exp2.svg",
     details: [
