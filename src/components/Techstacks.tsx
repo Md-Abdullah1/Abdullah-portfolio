@@ -119,17 +119,17 @@ const Techstacks = () => {
     { logo: "/assets/svgs/materialui.svg", name: "Material UI" },
     { logo: "/assets/svgs/react.svg", name: "React" },
     { logo: "/assets/svgs/typescript.svg", name: "Typescript" },
+    // { logo: "/assets/svgs/wordpress.svg", name: "Worpress" },
+    { logo: "/assets/svgs/next.svg", name: "Next JS" },
+  ];
+  
+  const items2 = [
+    { logo: "/assets/svgs/vscode.svg", name: "VSCode" },
+    { logo: "/assets/svgs/github.svg", name: "Github" },
     { logo: "/assets/svgs/nodejs.svg", name: "Node js" },
     { logo: "/assets/svgs/mongodb.svg", name: "MongoDB" },
     // { logo: "/assets/svgs/redis.svg", name: "Reis" },
     { logo: "/assets/svgs/express.svg", name: "Express js" },
-    // { logo: "/assets/svgs/wordpress.svg", name: "Worpress" },
-    { logo: "/assets/svgs/next.svg", name: "Next JS" },
-  ];
-
-  const items2 = [
-    { logo: "/assets/svgs/vscode.svg", name: "VSCode" },
-    { logo: "/assets/svgs/github.svg", name: "Github" },
     { logo: "/assets/svgs/postman.svg", name: "Postman" },
     { logo: "/assets/svgs/bitbucket.svg", name: "Bitbucket" },
     { logo: "/assets/svgs/aws.svg", name: "AWS" },

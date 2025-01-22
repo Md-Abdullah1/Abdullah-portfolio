@@ -23,7 +23,7 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
-        <a href="mailto:www.mohdshahid303@gmail.com">
+        <a href="mailto:www.ahilabdullah111@gmail.com">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
@@ -33,7 +33,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center  max-md:gap-6">
         <p className="md:text-base text-sm md:font-normal font-light text-center">
-          Copyright © 2024 Mohammed shahid Nagodriya
+          Copyright © 2025 Md Abdullah
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">
@@ -52,9 +52,9 @@ const Footer = () => {
 
       <div className="flex md:flex-row flex-col justify-between items-center max-md:mt-6">
         <p className="md:text-base text-sm md:font-normal font-light">
-          <small className="p-0 m-0">www.mohdshahid303@gmail.com</small>
+          <small className="p-0 m-0">ahilabdullah111@gmail.com</small>
           <br />
-          <small className="p-0 m-0">+91 93472 222304</small>
+          <small className="p-0 m-0">+91 95059 34716</small>
         </p>
       </div>
     </footer>

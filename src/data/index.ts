@@ -367,77 +367,70 @@ export const workExperience = [
   
   {
     id: 2,
-    companyName: "Tecktok4u Private Limited",
-    title: "Junior Software Developer",
-    desc: "Developed dynamic dashboards in a MERN-based school project,and managed Git workflows.",
+    companyName: "PTR Technologies",
+    title: "Frontend Developer",
+    desc: "Developed key projects like HRMS and POS, honing skills in HTML, CSS, JavaScript, Next.js ,TypeScript, and React.js.",
     // desc: " Developing and maintaining React applications with a focus on creating clean, well-structured, and highly functional UI components. ",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/assets/exp2.svg",
     details: [
       {
-        heading: "Dashboard Development and Data Visualization",
-        point:
-          "Spearheaded the development of dynamic dashboard aggregations for multiple user portals (admin, teacher, student, accountant, parent) in a school management project using the MERN (MongoDB, Express,React,Node) stack, enhancing data visualization and decision making capabilities through insightful graphs and charts",
+        heading: "Dashboard Development and API integration , Global state Management with Redux(Toolkit)",
+        point:"I gained valuable experience building user interfaces, implementing responsive design, and collaborating with a development team. ",
       },
       {
         heading: "Full Stack Project Contributions",
         point:
-          "Contributed extensively to all aspects of project development, including frontend design, API integration, and backend functionalities, demonstrating proficiency across the entire MERN‑stack and ensuring seamless communication and interaction between different system components.",
+          "Contributed extensively to all aspects of project development, including frontend design, API integration and functionalities, demonstrating proficiency across the entire MERN‑stack and ensuring seamless communication and interaction between different system components.",
       },
       {
-        heading: "Git Workflow Management and Collaboration",
+        heading: "Git  Management and Collaboration",
         point:
-          "Responsible for managing Git workflows and facilitating code merges, ensuring version control and collaboration efficiency within the development team, while also gaining invaluable experience in real-time project management and coordination.",
+          "Responsible for managing Git Repo and facilitating code merges, ensuring version control and collaboration efficiency within the development team, while also gaining invaluable experience in real-time project management and coordination.",
       },
     ],
     date: {
-      startDate: "December 2023",
-      endDate: "February 2023",
+      startDate: "Mayt 2023",
+      endDate: "July 2024",
     },
   },
 
   {
     id: 3,
     companyName: "Groomer Private Limited",
-    title: "API Integration Developer Intern",
+    title: "Frontend Developer Intern",
     desc: "Led API integration for the Groomer project, ensuring seamless communication and optimization",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/assets/exp3.svg",
     details: [
       {
         heading: "Comprehensive API Integration ",
-        point:
-          "Implemented seamless communication between different modules of the application, ensuring efficient data flow and functionality. This involved working with diverse APIs to achieve a cohesive and integrated user experience.",
+        point:" Completed front-end development internship from IBM skills-Build platform in Collaboration with EDUNET Foundation.",
       },
       {
-        heading: "End-to-End Project Ownership",
-        point:
-          "Took ownership of the entire API integration process for the Groomer project, from conception to deployment. Demonstrated a deep understanding of the MERN technology stack, utilizing it to optimize API performance, enhance data security, and streamline communication between front-end and back-end components.",
+        heading: "Worked on Creating dynamic Interfaces with React And JS",
+        point:"o gain strong foundational knowledge of development in the software development"
       },
-      {
-        heading: "Problem Solving and Optimization ",
-        point:
-          "Identified and resolved challenges related to API compatibility, data consistency, and system performance, contributing to a more robust and efficient application. Collaborated closely with cross-functional teams to understand requirements and design scalable solutions.",
-      },
+    
     ],
     date: {
-      startDate: "September 2023",
-      endDate: "November 2023",
+      startDate: "May 2023",
+      endDate: "June 2023",
     },
   },
 
   {
     id: 4,
-    companyName: "Photoshooto Private Limited",
-    title: "Frontend Developer Intern",
-    desc: "Spearheaded frontend development at Photoshooto, creating responsive, user-friendly interfaces.",
+    companyName: "Advance Skills Development Center",
+    title: "Frontend Developer Trainee",
+    desc:"successful completion of 6-month full stack Development (MERN) course at ASDC Hyderabad, gained comprehensive insights into both front-end and back-end development including UI/UX Research. ",
     className: "md:col-span-2",
     thumbnail: "/assets/exp4.svg",
     details: [
       {
         heading: "Frontend Development  ",
         point:
-          "Spearheaded the frontend development of three projects at Photoshooto, leveraging a tech stack that included HTML, CSS, Bootstrap, and React JS. Crafted intuitive and visually appealing user interfaces, enhancing the overall userexperience and meeting project requirements.",
+          "Spearheaded the frontend development of many mini-projects, leveraging a tech stack that included HTML, CSS, Bootstrap, and React JS. Crafted intuitive and visually appealing user interfaces, enhancing the overall userexperience and meeting project requirements.",
       },
       {
         heading: "Responsive Design Expertise ",
@@ -449,10 +442,15 @@ export const workExperience = [
         point:
           "Engaged in collaborative problem-solving with cross-functional teams to understand project objectives and deliver solutions aligned with business goals. Adapted quickly to evolving project requirements, showcasing flexibility and a proactive approach in a dynamic development environment.",
       },
+      {
+        heading: "UI/UX Design ",
+        point:
+          "focused in crafting intuitive and visually appealing user interfaces that enhance user experience. Leveraged tools like Figma and mira board to create wireframes and prototypes, ensuring alignment with user-centric design principles and project objectives."
+      },
     ],
     date: {
-      startDate: "February 2022",
-      endDate: "April 2023",
+      startDate: "June 2023",
+      endDate: "December 2023",
     },
   },
 ];
@@ -462,24 +460,24 @@ export const socialMedia = [
     id: 1,
     img: "/assets/git.svg",
     imgAlt: "/git.svg",
-    link: "https://github.com/mohammedshahid096",
+    link: "https://github.com/Md-Abdullah1",
   },
+  // {
+  //   id: 2,
+  //   img: "/assets/twit.svg",
+  //   imgAlt: "/twit.svg",
+  //   link: "https://x.com/Mohamme23803128?t=WHB4Q-C7q-Hcr7DLZlI9FA&s=09",
+  // },
   {
     id: 2,
-    img: "/assets/twit.svg",
-    imgAlt: "/twit.svg",
-    link: "https://x.com/Mohamme23803128?t=WHB4Q-C7q-Hcr7DLZlI9FA&s=09",
+    img: "/assets/link.svg",
+    imgAlt: "/link.svg",
+    link:"https://www.linkedin.com/in/md-abdullah-29a067260/",
   },
   {
     id: 3,
-    img: "/assets/link.svg",
-    imgAlt: "/link.svg",
-    link: "https://www.linkedin.com/in/mohammed-shahid-nagodriya-9aa61222a",
-  },
-  {
-    id: 4,
     img: "/assets/insta.svg",
     imgAlt: "/insta.svg",
-    link: "https://www.instagram.com/mohammedshahid096/?igsh=eDR2bDhmaGtpaDRp",
+    link: "https://www.instagram.com/abdullah_urf_ahil?igsh=MTZsaTE3OXYwdjYxOQ==",
   },
 ];
