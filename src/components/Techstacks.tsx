@@ -124,6 +124,7 @@ const Techstacks = () => {
     // { logo: "/assets/svgs/redis.svg", name: "Reis" },
     { logo: "/assets/svgs/express.svg", name: "Express js" },
     // { logo: "/assets/svgs/wordpress.svg", name: "Worpress" },
+    { logo: "/assets/svgs/next.svg", name: "Next JS" },
   ];
 
   const items2 = [
