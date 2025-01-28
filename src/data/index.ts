@@ -174,19 +174,19 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Docter Management System",
-    des: "Doctor Management System sounds impressive, focusing on seamless interaction between users, doctors, and admins. The features offer comprehensive functionality and control across all user levels.",
-    img: "/images/docter5.png",
+    title: "Blogging Website",
+    desc: "A Blogging Website created using Next.js with animation , TailwindCSS with listing some of my projects ",
+    img: "/images/blogs/blog1.png",
     iconLists: [
-      "/assets/re.svg",
+      "/assets/next.svg",
+      // "/assets/re.svg",
       "/assets/tail.svg",
-      "/assets/svgs/socketio.svg",
+      "/assets/svgs/vercel.svg",
       "/assets/svgs/redux.svg",
       "/assets/fm.svg",
     ],
-    link: "https://doctor-appointment-management.vercel.app/",
-    githubLink:
-      "https://github.com/mohammedshahid096/Doctor-Appointment-Management",
+    link: "https://everyday-blogs.vercel.app/",
+    githubLink:"https://github.com/Md-Abdullah1/Everyday-blogs",
     details: [
       "   Developed a role-based system for users, doctors, and administrators. Implemented an efficient appointment booking system with real-time notifications .",
       "Empowered doctors with a dedicated portal for appointment management and profile updates. Provided administrators with tools for doctor approval and comprehensive oversight.",
@@ -222,16 +222,18 @@ export const projects = [
       "I'm incredibly proud of this project and look forward to using it as a stepping stone for further advancements in the healthcare technology domain. If you're interested in exploring the application or have any feedback, feel free to get in touch with me.",
     ],
     gallery: [
-      "/images/docter1.png",
-      "/images/docter2.png",
-      "/images/docter3.png",
-      "/images/docter4.png",
-      "/images/docter5.png",
-      "/images/docter6.png",
-      "/images/docter7.png",
+      "/images/blogs/blog1.png",
+      "/images/blogs/blog2.png",
+      "/images/blogs/blog3.png",
+      "/images/blogs/blog4.png",
+      "/images/blogs/blog5.png",
+      "/images/blogs/blog6.png",
+      "/images/blogs/blog7.png",
+      "/images/blogs/blog8.png",
+      "/images/blogs/blog9.png",
     ],
-    embed:
-      '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7086783879818215424?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>',
+    // embed:
+    //   '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7086783879818215424?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>',
   },
   {
     id: 4,
@@ -397,19 +399,19 @@ export const workExperience = [
 
   {
     id: 3,
-    companyName: "Groomer Private Limited",
+    companyName: "EDUNET Foundation",
     title: "Frontend Developer Intern",
-    desc: "Led API integration for the Groomer project, ensuring seamless communication and optimization",
+    desc: "Completed front-end development internship from IBM skills-Build platform in Collaboration with EDUNET Foundation.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/assets/exp3.svg",
     details: [
       {
-        heading: "Comprehensive API Integration ",
-        point:" Completed front-end development internship from IBM skills-Build platform in Collaboration with EDUNET Foundation.",
+        heading: "Comprehensive PortFolio Crteation ",
+        point:" Created portfolio project as an in Intern at  IBM skills-Build platform provided by Edunet Foundation .",
       },
       {
-        heading: "Worked on Creating dynamic Interfaces with React And JS",
-        point:"o gain strong foundational knowledge of development in the software development"
+        heading: "Worked on Creating dynamic Interfaces with HTML/CSS And JS",
+        point:" gained strong foundational knowledge of development in the software development"
       },
     
     ],
