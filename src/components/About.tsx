@@ -25,8 +25,8 @@ const MyCardProtfolio = () => {
   return (
     <BackgroundCard className="rounded-[22px] max-w-lg p-4 sm:p-10 bg-white dark:bg-black-100">
       <img
-        src="https://raw.githubusercontent.com/mohammedshahid096/ShahidProtfolio/main/src/images/shahidprofile.jpg"
-        alt="Mohammed Shahid"
+      src="../../public/ahilpp.jpeg"
+        alt="Md Abdullah"
         height="400"
         width="400"
         className="object-contain rounded-full border-4 border-purple border-opacity-75 shadow-md"
